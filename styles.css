@@ -4,7 +4,7 @@ body{
  font-family: Georgia, 'Times New Roman', Times, serif;
  text-align:center;
  margin: 15px 8px;
- 
+ background-color: #dde16a;
 }
 #title{
    margin:8px;
@@ -23,7 +23,7 @@ p{
 #main{
    margin: 30px 20px;
    justify-content: space-evenly;
-background-color: #dde16a;
+
 padding: auto;
 }
 #image{
